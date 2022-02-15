@@ -19,8 +19,8 @@ if __name__ == "__main__":
     motor_control.rotateLeft()
     motor_control.rotateRight()
 
-    plow.openPlow()
-    plow.closePlow()
+    # plow.openPlow()
+    # plow.closePlow()
 
     sim.simxFinish(-1)
 
