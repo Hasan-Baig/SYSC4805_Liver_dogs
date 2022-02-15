@@ -2,4 +2,9 @@
 Group Project: Building a Snow Plow Robot in a CoppeliaSim Environment
 
 ## Robot Design
-![Design](https://user-images.githubusercontent.com/43944570/153280190-76a4ec3d-e2fc-4b90-9502-71dd9d6930a8.png)
+
+### Dimensions of Version 1.0 and Version 2.0
+![design1](https://github.com/Hasan-Baig/SYSC4805_Liver_dogs/blob/BodyWheels/design/Robot_Dimensions_v1.0_v2.0.png)
+
+### Dimensions of Version 2.0 and Version 2.1
+![design2](https://github.com/Hasan-Baig/SYSC4805_Liver_dogs/blob/BodyWheels/design/Robot_Dimensions_v2.0_v2.1.png)
