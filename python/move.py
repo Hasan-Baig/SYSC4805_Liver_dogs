@@ -1,7 +1,7 @@
 import sim
 from time import sleep
 
-WAIT_TIME = 5
+WAIT_TIME = 2.5
 
 class Move():
     def __init__(self,clientID):
